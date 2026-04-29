@@ -1,16 +1,16 @@
 <div align="center">
 
-# 🌐 BergBlog
+# 🌐 YeeFayAI
 
 **探索 AI Agent 的无限可能**
 
-👋 你好，我是 **Berg**，专注于 AI Agent 领域的学习与实践。
+👋 你好，我是 **YeeFay**，专注于 AI Agent 领域的学习与实践。
 
 这个仓库是我的个人博客源码，记录我的 Agent 学习笔记与项目作品。
 
 ---
 
-🔗 **在线访问**: [bergaihub.github.io](https://bergaihub.github.io)
+🔗 **在线访问**: [YeeFayAI.github.io](https://YeeFayAI.github.io)
 
 ---
 
